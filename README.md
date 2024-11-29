@@ -28,5 +28,4 @@ It uses `ASP.NET Core Minimal API` and includes Swagger for API documentation.
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone [<repository-url>](https://github.com/Mrex-cyber/BankApp
